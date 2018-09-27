@@ -1,0 +1,20 @@
+
+["success": 200, "body": <__NSSingleObjectArrayI 0x60000000fd30>(
+                                                                 {
+                                                                 contact = "";
+                                                                 "created_at" = "2018-09-13T06:24:43.000Z";
+                                                                 "device_token" = "device_token499";
+                                                                 "device_type" = "device_type499";
+                                                                 email = email499;
+                                                                 id = 16;
+                                                                 image = "";
+                                                                 "key_skills" = "";
+                                                                 linkedin = "";
+                                                                 location = "";
+                                                                 "login_status" = 0;
+                                                                 password = "$2b$10$yAoeQe/zMn.wZbIkn190I.hr7jsKvw2E4lmTySqhLJC8yF0r15bQG";
+                                                                 status = 0;
+                                                                 username = "user_name499";
+                                                                 }
+                                                                 )
+ , "error": 0]

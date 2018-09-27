@@ -1,0 +1,16 @@
+{
+    contact = "";
+    "created_at" = "2018-09-13T05:27:45.000Z";
+    "device_token" = "device_token594";
+    "device_type" = "device_type594";
+    email = email594;
+    id = 6;
+    image = "";
+    "key_skills" = "";
+    linkedin = "";
+    location = "";
+    "login_status" = 0;
+    password = "$2b$10$RdUZ5Z2wZhRwN8OlUeJNYeA5Y8pDUioXn1Ae4ELez43RJt4KLXm86";
+    status = 0;
+    username = "user_name594";
+}
